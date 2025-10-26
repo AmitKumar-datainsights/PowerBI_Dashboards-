@@ -1,2 +1,2 @@
-# PowerBI_Dashboards-
+# PowerBI_Dashboards
 This is my 1st repository.
